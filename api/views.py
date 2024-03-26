@@ -21,8 +21,7 @@ class FetchLatestVideosView(View):
     def get(self, request):
         # Define your API keys
         api_keys = [
-            'AIzaSyCd9gEfLut_2M7SidsmALX7Ies26uhxc_E',
-            # Add more keys as needed
+            # Add more google api keys as needed
         ]
         query = 'india'
 
