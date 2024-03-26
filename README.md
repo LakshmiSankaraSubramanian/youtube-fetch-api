@@ -4,6 +4,7 @@
 
 - **Python**: Ensure you have Python installed on your system. You can download it from the official Python website.
 - **YouTube Data API**: You'll need to set up a project in the Google Developers Console and enable the YouTube Data API v3. Obtain an API key for making requests to the API.
+- Add your credentials in views.py to consume
 
 ### Set Up Your Development Environment with docker
 - Use docker commands to set the required database and packages for the changes 
